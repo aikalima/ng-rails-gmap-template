@@ -1,0 +1,18 @@
+== README
+
+Simple Angular/Rails template using angular-ui Map to render Google map.
+
+Relevant files:
+
+- app/assets/javascript/*
+- app/controllers/home_controller.rb
+- app/views/home/index.html.erb
+- app/views/layouts/application.html.erb
+- config/routes.rb
+
+
+To run:
+
+- bundle update
+- rails s
+- got to http://localhost:3000
